@@ -3,60 +3,70 @@
     "id": "AeHIrLTr6JkxGE6SN-0Rw",
     "name": "Allen Raymond",
     "email": "nulla.ante@vestibul.co.uk",
-    "phone": "(992) 914-3792"
+    "phone": "(992) 914-3792",
+    "favorite": true
   },
   {
     "id": "qdggE76Jtbfd9eWJHrssH",
     "name": "Chaim Lewis",
     "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
+    "phone": "(294) 840-6685",
+    "favorite": true
   },
   {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
-    "phone": "(542) 451-7038"
+    "phone": "(542) 451-7038",
+    "favorite": true
   },
   {
     "id": "vza2RIzNGIwutCVCs4mCL",
     "name": "Wylie Pope",
     "email": "est@utquamvel.net",
-    "phone": "(692) 802-2949"
+    "phone": "(692) 802-2949",
+    "favorite": true
   },
   {
     "id": "05olLMgyVQdWRwgKfg5J6",
     "name": "Cyrus Jackson",
     "email": "nibh@semsempererat.com",
-    "phone": "(501) 472-5218"
+    "phone": "(501) 472-5218",
+    "favorite": false
   },
   {
     "id": "1DEXoP8AuCGYc1YgoQ6hw",
     "name": "Abbot Franks",
     "email": "scelerisque@magnis.org",
-    "phone": "(186) 568-3720"
+    "phone": "(186) 568-3720",
+    "favorite": false
   },
   {
     "id": "Z5sbDlS7pCzNsnAHLtDJd",
     "name": "Reuben Henry",
     "email": "pharetra.ut@dictum.co.uk",
-    "phone": "(715) 598-5792"
+    "phone": "(715) 598-5792",
+    "favorite": false
   },
   {
     "id": "C9sjBfCo4UJCWjzBnOtxl",
     "name": "Simon Morton",
     "email": "dui.Fusce.diam@Donec.com",
-    "phone": "(233) 738-2360"
+    "phone": "(233) 738-2360",
+    "favorite": false
   },
   {
     "id": "e6ywwRe4jcqxXfCZOj_1e",
     "name": "Jane Pacilona",
     "email": "janepacilona24.com",
-    "phone": "(049) 502 1993"
+    "phone": "(049) 502 1993",
+    "favorite": false
   },
   {
     "id": "7S39d8pE2aj5ntUkSsk-8",
     "name": "Anthony Mari D Alcala",
     "email": "ynoalcala08@gmail.com",
-    "phone": "(049) 501 3991"
+    "phone": "(049) 501 3991",
+    "favorite": true
   }
 ]
