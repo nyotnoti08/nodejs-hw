@@ -6,6 +6,7 @@ const { GMAIL_EMAIL, GMAIL_PASSWORD } = process.env;
 const nodemailerConfig = {
   service: "Gmail",
   host: "smtp.gmail.com",
+  // SMTP (Simple Mail Transfer Protocol)
   port: 465,
   secure: true,
   auth: {

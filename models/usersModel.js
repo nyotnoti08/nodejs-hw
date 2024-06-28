@@ -25,8 +25,9 @@ const userSchema = new Schema(
     },
     verify: {
       type: Boolean,
-      default: false,
+      default: false, //always default, when registering it is not verified
     },
+    //UUID
     verificationToken: {
       type: String,
       required: [true, "Verify token is required"],
